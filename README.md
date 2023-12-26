@@ -24,8 +24,8 @@ On some of the listed software, you may see some icons next to the name of the p
 
 
 ## Contents
-- [Operating Systems](#operating-systems)
-- [Android App Stores](#android-app-stores)
+- [Operating Systems](#operating-systems-1)
+- [Android App Stores](#android-app-stores-)
 - [Web Browsers](#web-browsers)
 
 
