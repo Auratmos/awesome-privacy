@@ -5,10 +5,18 @@
 
 </div>
 
+
 <!--
 ## Notice for GitHub!
 GitHub, as a website, is not private. GitHub is owned by Microsoft and they've implemented their own little tracker tidbits into the official website. If you would like to ensure your privacy while viewing this document, I recommend viewing the [Codeberg mirror](https://codeberg.org/aura/awesome-privacy) of this repository. [Learn more on mirroring to Codeberg](https://codeberg.org/Recommendations/Mirror_to_Codeberg).
 -->
+
+
+## Recommended: Naomi Brockwell TV (NBTV)
+<img width=64 src="icons/nbtv.png" style="float:left">
+If you are a beginner in digital privacy, I *highly* recommend checking out NBTV. The host, Naomi Brockwell, discusses how to better improve your privacy in easy-to-understand methods while carefully explaining more technical terms to those who might be unfamiliar with them. This is not a sponsor, I just really like their content and you should definitely check it out.
+
+[NBTV.media](https://www.nbtv.media/)
 
 
 ## Icon Key
@@ -74,3 +82,8 @@ with or without Google Play Services or MicroG.
 ### Desktop Web Browsers <img width=16 src="icons/linux.png"><img width=16 src="icons/windows.png"><img width=16 src="icons/macos.png">
 - <img width=12 src="icons/torbrowser.png"> [Tor Browser](https://www.torproject.org/) <img width=12 src="icons/linux.png"><img width=12 src="icons/windows.png"><img width=12 src="icons/macos.png"> - Tor Browser uses the Tor network to protect your privacy and anonymity. **Best for anonymity.**
 - <img width=12 src="icons/librewolf.png"> [LibreWolf](https://librewolf.net/) <img width=12 src="icons/linux.png"><img width=12 src="icons/windows.png"><img width=12 src="icons/macos.png"> - A custom version of Firefox, focused on privacy, security and freedom. **Best for anyone.**
+
+
+## Email Services
+- <img width=12 src="icons/protonmail.png"> [Proton Mail](https://proton.me/mail) - Proton Mail is an encrypted email service based in Switzerland.
+- <img width=12 src="icons/tuta.png"> [Tuta Mail](https://tuta.com/) - Secure, green and ad-free. Email to feel good about.
