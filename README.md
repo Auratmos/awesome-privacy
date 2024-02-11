@@ -13,10 +13,14 @@ GitHub, as a website, is not private. GitHub is owned by Microsoft and they've i
 
 
 ## Recommended: Naomi Brockwell TV (NBTV)
-<img width=64 src="icons/nbtv.png" style="float:left">
+<a href="https://nbtv.media"><img width=64 src="icons/nbtv.png"></a>
+
 If you are a beginner in digital privacy, I *highly* recommend checking out NBTV. The host, Naomi Brockwell, discusses how to better improve your privacy in easy-to-understand methods while carefully explaining more technical terms to those who might be unfamiliar with them. This is not a sponsor, I just really like their content and you should definitely check it out.
 
-[NBTV.media](https://www.nbtv.media/)
+<a href="https://www.youtube.com/naomibrockwelltv"><img width=24 src="icons/yt.png"></a>
+<a href="https://odysee.com/@NaomiBrockwell:4"><img width=18 src="icons/odysee.png"></a>
+<a href="https://www.tiktok.com/@naomibrockwell"><img width=16 src="icons/tiktok.png"></a>
+<a href="https://www.instagram.com/nbtv.media/"><img width=18 src="icons/instagram.png"></a>
 
 
 ## Icon Key
