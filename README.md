@@ -58,6 +58,8 @@ There are also mobile operating systems based on Linux distributions.
 - [Ubuntu Touch](https://ubuntu-touch.io/) - Ubuntu Touch is the touch-friendly mobile version of the popular Ubuntu operating system. Originally designed and developed by Canonical Ltd, the project now resides with the UBports Foundation.
 - [PureOS](https://pureos.net/) - A fully-convergent, user friendly, secure and freedom respecting OS for your daily usage.
 
+iPhones do not currently support flashing custom operating systems on them.
+
 ### Desktop Operating Systems 
 Windows and macOS are not the most private operating systems for desktops. Both send a lot of telemetry data back to their respective companies, and there isn't much you can do to disable it within each operating system's privacy settings. However, there are some other operating systems based on the open-source Linux kernel that can enhance your privacy and security.
 
@@ -68,6 +70,10 @@ Windows and macOS are not the most private operating systems for desktops. Both 
 #### For security experts:
 - <img width=12 src="icons/qubesos.png"> [Qubes OS](https://www.qubes-os.org/) - Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. Qubes OS leverages Xen-based virtualization to allow for the creation and management of isolated compartments called qubes. **Best for security.** 
 - <img width=12 src="icons/tails.png"> [Tails](https://tails.net/) - Tails is a portable operating system that protects against surveillance and censorship. **Best for anonymity.**
+
+If there are programs available on Windows that are not available on Linux that you wish to use, try to run them with [Wine](https://www.winehq.org/).
+
+If, for whatever reason, you are required to use Windows or macOS, try your best to disable any sort of telemetry within your operating system's settings and, if you can, set up your device without a Microsoft account or Apple ID.
 
 
 ## Android App Stores <img width=20 src="icons/android.png">
